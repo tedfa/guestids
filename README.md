@@ -10,5 +10,5 @@ To use:
 2. Make sure you have a mark down editor like MacDown. 
 3. Run logins.py to initialize data structure. 
 4. Run dictlook.py to make appropriate updates to the current passwords.
-5. Run gid.py
+5. Run gid4.py
 6. Open login.md file and print
