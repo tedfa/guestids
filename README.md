@@ -2,7 +2,7 @@
 
 These scripts were created to simplify the repetative process of resetting guest log-ins for use by visitors at Hodges Library. 
 
-These scripts were writting in Python3. 
+These scripts were written in Python3. 
 
 To use:
 
